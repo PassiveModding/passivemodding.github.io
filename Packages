@@ -2,7 +2,7 @@ Package: com.passivemodding.mitsuhaxi
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: PassiveModding
-Filename: debs/com.passivemodding.mitsuhaxi_0.2.0_iphoneos-arm.deb
+Filename: /debs/com.passivemodding.mitsuhaxi_0.2.0_iphoneos-arm.deb
 Size: 45960
 MD5sum: 50a61f6a9cadb4970daaa4e1a2a254cf
 SHA1: 89bfb75d809498130bcd61eb45fded337c73fc00
@@ -16,9 +16,8 @@ Package: com.passivemodding.smartlpm
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: PassiveModding
-Installed-Size: 290
 Depends: mobilesubstrate
-Filename: debs/com.passivemodding.smartlpm_1.0.7_iphoneos-arm.deb
+Filename: /debs/com.passivemodding.smartlpm_1.0.7_iphoneos-arm.deb
 Size: 15884
 MD5sum: 0ce5b1631dd386acdc7809aa92170238
 SHA1: 5d642177744a88c0c6a6068ad4a437b0a6d12fdb

@@ -1,13 +1,13 @@
 Package: com.passivemodding.mitsuhaxi
 Version: 0.2.0
 Architecture: iphoneos-arm
-Maintainer: PassiveModding <passivemodding@gmail.com>
-Filename: /io.ominousness.mitsuhaxi_0.2.0_iphoneos-arm.deb
+Maintainer: PassiveModding
+Filename: debs/io.ominousness.mitsuhaxi_0.2.0_iphoneos-arm.deb
 Size: 45960
 MD5sum: 50a61f6a9cadb4970daaa4e1a2a254cf
 SHA1: 89bfb75d809498130bcd61eb45fded337c73fc00
 SHA256: 82b31f74a80b5545a8f0ab3f106517b882c8634583c5ccff91b8d5005abd21e3
 Section: Electra
 Description: This is a fork of c0ldra1n's excellent tweak - Mitsuha2. This fork only works on iOS 11.
-Author: Ominousness <x@gmail.com>
+Author: Ominousness
 Name: MitsuhaXI

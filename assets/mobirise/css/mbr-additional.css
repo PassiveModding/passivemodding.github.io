@@ -2205,66 +2205,6 @@ body {
 .cid-qNY9MTjNkW .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
-.cid-qME211ggI9 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-qMDDNi0dJJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #177396, #ca2955);
-}
-.cid-qMDDNi0dJJ .list-group-item {
-  padding: .75rem 3.25rem;
-}
-.cid-qMDDNi0dJJ .plan {
-  word-break: break-word;
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-  color: #767676;
-}
-.cid-qMDDNi0dJJ .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-qMDDNi0dJJ .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-qMDDNi0dJJ .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-qMDDNi0dJJ .plan-header {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-qMDDNi0dJJ .plan-header,
-.cid-qMDDNi0dJJ .plan-body {
-  background-color: #fff;
-}
-.cid-qMDDNi0dJJ .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-.cid-qMDDNi0dJJ .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-qMDDNi0dJJ .price-figure {
-    font-size: 4.25rem;
-  }
-}
 .cid-qMDSiLfjBS .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -8910,11 +8850,6 @@ body {
 .cid-qO1tX0A5j9 .mbr-text,
 .cid-qO1tX0A5j9 .mbr-section-btn {
   text-align: left;
-}
-.cid-qO1ynRHfbH {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qO1vjtaYq6 {
   padding-top: 90px;
